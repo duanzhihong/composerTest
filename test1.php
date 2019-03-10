@@ -1,2 +1,2 @@
 <?php
-echo 'duanzhihong';
+echo 'duanzhihong1.2';
